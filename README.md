@@ -94,7 +94,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=nerdblud&&style=flat-square)  
+
   
 
 <br/>  
