@@ -1,10 +1,8 @@
 ### **<div align="center">I'm Alirza, also known as Nerdblud. I love coding! 💻✨🔥</div>**  
   
-
-- 🚀 Working on "Orbit Dev" projects.  
-  
-
-- 🚧 I’m currently learning Next.js  
+- Working solo. 
+Partnership requests: 
+nerdblud@gmail.com
   
 
 <br/>  
