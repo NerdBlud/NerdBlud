@@ -5,15 +5,15 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@nerdblud">
-    <img src="./media/youtube.svg" height="48"/>
+    <img src="https://img.icons8.com/color/60/000000/youtube-play.png" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nerdblud/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+    <img src="https://img.icons8.com/color/60/000000/linkedin.png" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/nerdblud">
-    <img src="https://skillicons.dev/icons?i=github" height="48" />
+    <img src="https://img.icons8.com/color/60/000000/github.png" />
   </a>
 </p>
 ---
