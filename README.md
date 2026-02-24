@@ -5,16 +5,17 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@nerdblud">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="./media/youtube.svg" height="48"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nerdblud/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/nerdblud">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
   </a>
 </p>
-
 ---
 
 ## About
@@ -33,37 +34,60 @@ I enjoy working across the stack and making systems that are simple, fast, and e
 
 ### Frontend
 ![React](https://skillicons.dev/icons?i=react)
+&nbsp;&nbsp;
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
+&nbsp;&nbsp;
 ![Svelte](https://skillicons.dev/icons?i=svelte)
+&nbsp;&nbsp;
 ![Nuxt](https://skillicons.dev/icons?i=nuxtjs)
+&nbsp;&nbsp;
 ![HTML](https://skillicons.dev/icons?i=html)
+&nbsp;&nbsp;
 ![CSS](https://skillicons.dev/icons?i=css)
+&nbsp;&nbsp;
 ![Sass](https://skillicons.dev/icons?i=sass)
+&nbsp;&nbsp;
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ### Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
+&nbsp;&nbsp;
 ![Express](https://skillicons.dev/icons?i=express)
+&nbsp;&nbsp;
 ![Firebase](https://skillicons.dev/icons?i=firebase)
+&nbsp;&nbsp;
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ### Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
+&nbsp;&nbsp;
 ![TypeScript](https://skillicons.dev/icons?i=ts)
+&nbsp;&nbsp;
 ![Python](https://skillicons.dev/icons?i=python)
+&nbsp;&nbsp;
 ![C#](https://skillicons.dev/icons?i=cs)
+&nbsp;&nbsp;
 ![Rust](https://skillicons.dev/icons?i=rust)
+&nbsp;&nbsp;
 ![C++](https://skillicons.dev/icons?i=cpp)
+&nbsp;&nbsp;
 ![PHP](https://skillicons.dev/icons?i=php)
+&nbsp;&nbsp;
 ![SQL](https://skillicons.dev/icons?i=mysql)
+&nbsp;&nbsp;
 ![GraphQL](https://skillicons.dev/icons?i=graphql)
 
 ### Tools
 ![Git](https://skillicons.dev/icons?i=git)
+&nbsp;&nbsp;
 ![Bash](https://skillicons.dev/icons?i=bash)
+&nbsp;&nbsp;
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
+&nbsp;&nbsp;
 ![CMake](https://skillicons.dev/icons?i=cmake)
+&nbsp;&nbsp;
 ![Heroku](https://skillicons.dev/icons?i=heroku)
+&nbsp;&nbsp;
 ![Figma](https://skillicons.dev/icons?i=figma)
 
 ---
