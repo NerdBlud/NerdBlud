@@ -77,9 +77,17 @@ I enjoy working across the stack and making systems that are simple, fast, and e
 ![SQL](https://skillicons.dev/icons?i=mysql)
 &nbsp;&nbsp;
 ![GraphQL](https://skillicons.dev/icons?i=graphql)
+&nbsp;&nbsp;
+![Lua](https://skillicons.dev/icons?i=lua)
+&nbsp;&nbsp;
+![Java](https://skillicons.dev/icons?i=java)
+&nbsp;&nbsp;
+![Go](https://skillicons.dev/icons?i=go)
 
 ### Tools
 ![Git](https://skillicons.dev/icons?i=git)
+&nbsp;&nbsp;
+![Docker](https://skillicons.dev/icons?i=docker)
 &nbsp;&nbsp;
 ![Bash](https://skillicons.dev/icons?i=bash)
 &nbsp;&nbsp;
