@@ -101,13 +101,12 @@ I enjoy working across the stack and making systems that are simple, fast, and e
 
 ---
 
-## GitHub Stats (Alternative)
+## GitHub Stats 
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nerdblud&theme=github_dark" alt="Top languages by repo badge"/>
-
-  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nerdblud&theme=github_dark" alt="Profile details badge"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=nerdblud&theme=github_dark&show_icons=true" alt="Profile details badge"/>
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nerdblud&theme=github_dark&layout=compact" alt="Top languages by repo badge"/>
 </p>
 
 ---
