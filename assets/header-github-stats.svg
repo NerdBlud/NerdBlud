@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="60" viewBox="0 0 640 60" role="img" aria-label="GitHub Stats">
+  <rect x="1" y="1" width="638" height="58" rx="8" fill="#19150E" stroke="#785D26"/>
+  <path d="M20 30H187 M453 30H620" stroke="#A78032" stroke-width="1"/>
+  <g transform="translate(198 14)">
+  <circle cx="16" cy="16" r="14" fill="#F7C948"/>
+  <path d="M5 13h3m16 0h3m-13 1h4" stroke="#33280F" stroke-width="2" stroke-linecap="round"/>
+  <rect x="7" y="11" width="7" height="6" rx="2" fill="none" stroke="#33280F" stroke-width="2"/>
+  <rect x="18" y="11" width="7" height="6" rx="2" fill="none" stroke="#33280F" stroke-width="2"/>
+  <path d="M11 21q5 7 10 0z" fill="#33280F"/>
+  <path d="M15 22h3v2h-3z" fill="#FFF1C2"/>
+</g>
+  <text x="336" y="39" text-anchor="middle" fill="#FFE18A" font-family="Georgia, serif" font-size="27" font-weight="700" font-style="italic">GitHub Stats</text>
+</svg>
